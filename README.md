@@ -22,19 +22,20 @@
   - 👯 I’m looking to collaborate on [DocSolver](https://github.com/ai-hermes/doc-solver) 🤝;
   - 🤔 I’m looking for help with LeetCode;
   - 💬 Ask me about anything, I am happy to help;
-  - ⚡️ Fun-Fact: I have a degree in software engineering;
+  - ⚡️ Fun-Fact: I'm proficient in software and PS;
+  - 🥰 I love adventure sports;
   - 📫 How to reach me: hehuan07@gmail.com;
 
   **Languages and Tools:** 
 
   <!-- Your github readme stats
   You can use this api: https://github.com/anuraghazra/github-readme-stats
+  <a href="https://github.com/onimur/handle-path-oz">
+      <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=hehuangz&show_icons=true&hide_border=true" />
+    </a>
   -->
 
   <p>
-    <a href="https://github.com/onimur/handle-path-oz">
-      <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=hehuangz&show_icons=true&hide_border=true" />
-    </a>
     <!-- Your languages and tools. Be careful with the alignment. 
     You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
     -->
@@ -53,5 +54,3 @@
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/starbucks/starbucks-ar21.svg"></code>
-  
-  
